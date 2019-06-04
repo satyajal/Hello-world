@@ -1,2 +1,2 @@
 # Hello-world
-lets have fun
+lets have fun in programming.
